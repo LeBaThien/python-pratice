@@ -9,7 +9,6 @@ Faker==6.5.0
 falcon==2.0.0
 Flask==1.1.2
 Flask-Injector==0.12.3
-Flask-OpenTracing==1.1.0
 freezegun==1.1.0
 gunicorn==20.1.0
 inflection==0.5.1
@@ -17,11 +16,9 @@ hy==0.20.0
 injector==0.18.4
 ipdb==0.13.4
 ipython==7.19.0
-jaeger-client==4.4.0
 mutmut==2.1.0
 mypy==0.790
 objgraph==3.5.0
-opentracing==2.0.0
 prometheus-client==0.10.1
 pytest==6.2.2
 redis==3.5.3
