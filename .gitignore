@@ -1,2 +1,8 @@
 
+
+# JetBrains IDE
+.idea/
+
+# Large media files
 .venv
+venv
